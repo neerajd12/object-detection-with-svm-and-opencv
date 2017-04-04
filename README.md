@@ -35,3 +35,11 @@ The Classifier is then training with this data in cell 10 and finally its tested
 ## Video Processing
 
 The detections from the video frames are added to a queue and the mean of the last 10 frames is used to get the last detections. The mean is thresholded to get the good detections. This remove the false positives and enhances the windows with car.
+
+# vehicle detection test 1
+
+[![vehicle detection 1](https://img.youtube.com/vi/8AFKlx9Ymr8/0.jpg)](https://youtu.be/8AFKlx9Ymr8)
+
+# vehicle detection test 2
+
+[![vehicle detection 2](https://img.youtube.com/vi/b5N82Dxe6sE/0.jpg)](https://youtu.be/b5N82Dxe6sE)
